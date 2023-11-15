@@ -1,0 +1,8 @@
+\\Pc_201_01\обмен_201\Zher_git\test_git1\bin\Debug\test_git1.exe.config
+\\Pc_201_01\обмен_201\Zher_git\test_git1\bin\Debug\test_git1.exe
+\\Pc_201_01\обмен_201\Zher_git\test_git1\bin\Debug\test_git1.pdb
+\\Pc_201_01\обмен_201\Zher_git\test_git1\obj\Debug\test_git1.csproj.AssemblyReference.cache
+\\Pc_201_01\обмен_201\Zher_git\test_git1\obj\Debug\test_git1.csproj.SuggestedBindingRedirects.cache
+\\Pc_201_01\обмен_201\Zher_git\test_git1\obj\Debug\test_git1.csproj.CoreCompileInputs.cache
+\\Pc_201_01\обмен_201\Zher_git\test_git1\obj\Debug\test_git1.exe
+\\Pc_201_01\обмен_201\Zher_git\test_git1\obj\Debug\test_git1.pdb
