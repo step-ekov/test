@@ -1,0 +1,11 @@
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\bin\Debug\MathQuiz 1.exe.config
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\bin\Debug\MathQuiz 1.exe
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\bin\Debug\MathQuiz 1.pdb
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz 1.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz_1.Form1.resources
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz_1.Properties.Resources.resources
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz 1.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz 1.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz 1.exe
+C:\Users\Студент\Desktop\Студенческие работы\Худжаорифов Ш Семенов\MathQuiz 1\obj\Debug\MathQuiz 1.pdb
